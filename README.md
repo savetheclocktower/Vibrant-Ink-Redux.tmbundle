@@ -29,4 +29,4 @@ This theme tries to be logical and ordered, except where it isn't. Some of the s
 
 ### CSS
 
-![CSS screenshot](http://i.imgur.com/BgyQj.png)
+![CSS screenshot](http://i.imgur.com/WAIBI.png)
