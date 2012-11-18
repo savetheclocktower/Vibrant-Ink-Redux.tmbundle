@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>naqerj@naqerjqhcbag.arg</string>
+	<key>contactName</key>
+	<string>Andrew Dupont</string>
+	<key>description</key>
+	<string>A TextMate 2 theme.
+
+Vibrant Ink Redux is based on Justin Palmer's original &lt;a href="http://alternateidea.com/blog/articles/2006/1/3/textmate-vibrant-ink-theme-and-prototype-bundle"&gt;Vibrant Ink theme&lt;/a&gt;. I've tried to streamline the scope names so that they abide by current TextMate conventions, and I've tweaked some of the styles (and added some new ones) so that they make my eyes happier.</string>
+	<key>name</key>
+	<string>Vibrant Ink Redux</string>
+	<key>uuid</key>
+	<string>6DBB8138-C854-4CAA-8568-916656E12140</string>
+</dict>
+</plist>
